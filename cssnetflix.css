@@ -249,6 +249,7 @@ footer {
     /* border: 2px solid green; */
     position: relative;
     z-index: 99;
+    overflow: hidden;
 }
 
 .video2 {
